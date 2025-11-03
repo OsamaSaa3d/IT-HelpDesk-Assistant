@@ -1,0 +1,36 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Environment and secret files
+.env
+*.env
+
+# Data files
+Data/
+*.csv
+*.xlsx
+*.json
+*.jsonl
+*.flat
+*.npy
+*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/project files
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs and temp
+*.log
+*.tmp
