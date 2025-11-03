@@ -13,9 +13,6 @@ venv/
 *.env
 
 # Data files
-*.csv
-*.xlsx
-*.json
 *.jsonl
 *.flat
 *.npy
